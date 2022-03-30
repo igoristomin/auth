@@ -25,3 +25,6 @@ Simple web application for in-memory authentication.
 * Project type: Web application
 * Date of release: 15 February 2022
 * Current version: 1.0
+
+---
+Author [Igor Istomin](https://github.com/igoristomin)
