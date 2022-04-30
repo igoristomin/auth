@@ -24,5 +24,5 @@ Simple web application for in-memory authentication.
 ## Release notes
 * Project type: Web application
 * Date of release: 15 February 2022
-* Date of last update: 30 March 2022
-* Current version: 1.1
+* Date of last update: 30 April 2022
+* Current version: 1.2
