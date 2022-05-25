@@ -1,7 +1,7 @@
 # Auth
 
 ## Description
-Simple web application for in-memory authentication.
+A simple web application that implements authorization in memory.
 
 ## Used tools
 * Platform: Spring Boot 2.6.3
@@ -15,11 +15,11 @@ Simple web application for in-memory authentication.
 * Security configuration: /src/main/java/web/auth/config/SecurityConfig.java
 
 ## Frontend and backend schema
-![Element relationships](readme/front-back-schema.svg)
+![Relationships of elements](readme/front-back-schema.svg)
 
 ## Installation
-1. Run this project in development environment
-2. Open http://localhost:8081 in browser
+1. Run this project in a development environment
+2. Open http://localhost:8081 in the browser
 
 ## Release notes
 * Project type: Web application
