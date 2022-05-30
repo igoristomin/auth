@@ -19,7 +19,7 @@ A simple web application that implements authorization in memory.
 
 ## Installation
 1. Run this project in a development environment
-2. Open http://localhost:8081 in the browser
+2. Open http://localhost:8080 in the browser
 
 ## Release notes
 * Project type: Web application
