@@ -24,5 +24,5 @@ A simple web application that implements authorization in memory.
 ## Release notes
 * Project type: Web application
 * Date of release: 15 February 2022
-* Date of last update: 25 May 2022
-* Current version: 1.3
+* Date of last update: 30 May 2022
+* Current version: 1.4
