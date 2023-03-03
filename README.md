@@ -6,7 +6,7 @@ A simple web application that implements authorization in memory.
 ## Used tools
 * Platform: Spring Boot 2.6.3
 * Builder: Gradle
-* Languages: Java 8 (JDK 8), HTML5, JavaScript 1.7
+* Languages: Java 8, HTML5, JavaScript 1.7
 * Dependencies: Spring Security, Thymeleaf, Spring Web
 
 ## Important files
