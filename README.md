@@ -1,4 +1,4 @@
-# Auth
+# Authorization
 
 ## Description
 A simple web application that implements authorization in memory.
