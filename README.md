@@ -1,7 +1,7 @@
 # Authorization
 
 ## Description
-A simple web application that implements authorization in memory.
+A simple web application that implements In-Memory Authentication and allows you to pass authorization.
 
 ## Used tools
 * Platform: Spring Boot 2.6.3
