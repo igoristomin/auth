@@ -1,4 +1,4 @@
-package web.auth.controller;
+package igoristomin.auth.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
