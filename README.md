@@ -5,8 +5,8 @@ A simple web application that implements In-Memory Authentication and allows you
 
 ## Used tools
 * Platform: Spring Boot 2.6.3
-* Builder: Gradle
-* Languages: Java 8, HTML5, JavaScript 1.7
+* Builder: Gradle 7.4
+* Languages: Java SE 8u311, HTML5, JavaScript 1.7
 * Dependencies: Spring Security, Thymeleaf, Spring Web
 
 ## Important files
