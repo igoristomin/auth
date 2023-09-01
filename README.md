@@ -13,9 +13,6 @@ A simple web application that implements In-Memory Authentication and allows you
 * Application properties: /src/main/resources/application.properties
 * Security configuration: /src/main/java/web/auth/config/SecurityConfig.java
 
-## Frontend and backend schema
-![Relationships of elements](readme/front-back-schema.svg)
-
 ## Installation
 1. Run this project in a development environment
 2. Open http://localhost:8080 in the browser
